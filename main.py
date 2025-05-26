@@ -7,7 +7,7 @@ from aiogram.types import Message
 from dotenv import load_dotenv
 
 
-from buttons.buttons import start_btn,kurslar,back_btn
+from buttons import start_btn,kurslar,back_btn
 
 
 
